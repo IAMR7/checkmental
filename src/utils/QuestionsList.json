@@ -1,42 +1,102 @@
 [
     {
         "no": 1,
-        "question": "Pertanyaan 1"
+        "question": "Apakah dalam sebulan belakangan ini Anda sering menderita sakit kepala?",
+        "image": "1.svg"
     },
     {
         "no": 2,
-        "question": "Pertanyaan 2"
+        "question": "Apakah dalam sebulan belakangan ini nafsu makan Anda turun?",
+        "image": "2.svg"
     },
     {
         "no": 3,
-        "question": "Pertanyaan 3"
+        "question": "Apakah dalam sebulan belakangan ini Anda sulit tidur?",
+        "image": "3.svg"
     },
     {
         "no": 4,
-        "question": "Pertanyaan 4"
+        "question": "Apakah dalam sebulan belakangan ini anda sering ketakutan?",
+        "image": "4.svg"
     },
     {
         "no": 5,
-        "question": "Pertanyaan 5"
+        "question": "Apakah dalam sebulan belakangan ini anda merasa gugup tegang atau khawatir?",
+        "image": "5.svg"
     },
     {
         "no": 6,
-        "question": "Pertanyaan 6"
+        "question": "Apakah dalam sebulan belakangan ini tangan anda sering gemetar?",
+        "image": "6.svg"
     },
     {
         "no": 7,
-        "question": "Pertanyaan 7"
+        "question": "Apakah dalam sebulan belakangan ini pencernaan anda terganggu?",
+        "image": "7.svg"
     },
     {
         "no": 8,
-        "question": "Pertanyaan 8"
+        "question": "Apakah dalam sebulan belakangan ini anda sulit berpikir jernih?",
+        "image": "8.svg"
     },
     {
         "no": 9,
-        "question": "Pertanyaan 9"
+        "question": "Apakah dalam sebulan belakangan ini anda merasa tidak bahagia?",
+        "image": "9.svg"
     },
     {
         "no": 10,
-        "question": "Pertanyaan 10"
+        "question": "Apakah dalam sebulan belakangan ini anda menjadi sering menangis?",
+        "image": "10.svg"
+    },
+    {
+        "no": 11,
+        "question": "Apakah dalam sebulan belakangan ini Anda kurang menikmati kegiatan anda sehari-hari?",
+        "image": "11.svg"
+    },
+    {
+        "no": 12,
+        "question": "Apakah dalam sebulan belakangan ini Anda sulit mengambil keputusan?",
+        "image": "12.svg"
+    },
+    {
+        "no": 13,
+        "question": "Apakah dalam sebulan belakangan ini pekerjaan rutin Anda terganggu?",
+        "image": "13.svg"
+    },
+    {
+        "no": 14,
+        "question": "Apakah dalam sebulan belakangan ini Anda tidak mampu melakukan hal-hal yang bermanfaat?",
+        "image": "14.svg"
+    },
+    {
+        "no": 15,
+        "question": "Apakah dalam sebulan belakangan ini Anda kehilangan minat terhadap berbagai hal?",
+        "image": "15.svg"
+    },
+    {
+        "no": 16,
+        "question": "Apakah dalam sebulan belakangan ini Anda merasa diri Anda tidak berharga?",
+        "image": "16.svg"
+    },
+    {
+        "no": 17,
+        "question": "Apakah dalam sebulan belakangan ini dalam benak Anda ada pikiran untuk mengakhiri hidup?",
+        "image": "17.svg"
+    },
+    {
+        "no": 18,
+        "question": "Apakah dalam sebulan belakangan ini Anda merasa lelah berkepanjangan?",
+        "image": "18.svg"
+    },
+    {
+        "no": 19,
+        "question": "Apakah dalam sebulan belakangan ini lambung Anda terasa tidak nyaman?",
+        "image": "7.svg"
+    },
+    {
+        "no": 20,
+        "question": "Apakah dalam sebulan belakangan ini Anda gampang capek?",
+        "image": "20.svg"
     }
 ]
